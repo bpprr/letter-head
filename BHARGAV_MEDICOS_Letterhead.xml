@@ -92,6 +92,20 @@
               <w:t>GSTIN: 27AQBPP2100K1Z4</w:t>
             </w:r>
           </w:p>
+          <w:p>
+            <w:pPr>
+              <w:spacing w:line="200" w:lineRule="auto"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18"/>
+                <w:szCs w:val="18"/>
+                <w:color w:val="555555"/>
+                <w:rFonts w:ascii="Poppins" w:hAnsi="Poppins"/>
+              </w:rPr>
+              <w:t>FSSAI No.: 11522060000100</w:t>
+            </w:r>
+          </w:p>
         </w:tc>
         <w:tc>
           <w:tcPr>
